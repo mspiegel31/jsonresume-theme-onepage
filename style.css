@@ -30,6 +30,10 @@ a {
   -webkit-box-shadow: 2px 2px 4px #aaa;
 }
 
+.workSummary {
+  margin: 5px 0px;
+}
+
 .coursesList {
   width: 28%;
   vertical-align: top;
