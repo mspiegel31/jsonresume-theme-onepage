@@ -22,12 +22,16 @@ a {
 
 #resume {
   margin: 0 auto;
-  max-width: 600px;
+  max-width: 720px;
   padding: 80px 100px;
   background: #fff;
   border: 1px solid #ccc;
   box-shadow: 2px 2px 4px #aaa;
   -webkit-box-shadow: 2px 2px 4px #aaa;
+}
+
+.workSummary {
+  margin: 5px 0px;
 }
 
 .coursesList {
@@ -143,7 +147,7 @@ a {
   }
   #resume {
     margin: 0 auto;
-    max-width: 600px;
+    max-width: 720px;
     padding: 0px 0px;
     border: 0px;
     background: #fff;
